@@ -1,0 +1,9 @@
+spacy
+wordcloud
+nltk
+pandas
+numpy
+matplotlib
+sklearn
+re
+wordcloud
